@@ -57,3 +57,6 @@ The compiled executable will be available in the `dist` folder.
 - `theme_config.json`: Stores user theme preferences (auto-generated).
 - `yt loader.spec`: Configuration file for building the application with PyInstaller.
 - `logo.ico.ico`: Icon file for the application.
+
+---
+**Developed by kuldip sha**
